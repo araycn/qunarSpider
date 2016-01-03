@@ -11,3 +11,4 @@ DES_CITY = u'沈阳'
 LAUNCH_TIME = '2016-02-06'
 AFFORD_PRICE = 1200
 QUNAR_URL = "http://flight.qunar.com/site/oneway_list.htm"
+CHECK_PERIOD = 15*60
